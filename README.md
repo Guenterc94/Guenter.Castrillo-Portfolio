@@ -2,5 +2,5 @@
 
 **DESCRIPTION
 
-##This is my first professional profile page. This page showcases what I've accomplished so far in coding. I have included a link to my first HTML/CSS webpage I built in my coding bootcamp. 
+##This is my first professional online portfolio. This page showcases what I've accomplished so far in coding and holds placeholders for projects to come. I have included a link to my first HTML/CSS webpage I built in my coding bootcamp. 
 
