@@ -71,7 +71,7 @@ header nav ul li a {
 }
 
 .about-me {
-    padding-top: 50px;
+    padding-top: 100px;
     font-size: 25px;
     display: flex;
 }
@@ -90,7 +90,7 @@ header nav ul li a {
 }
 
 .work{
-    padding-top: 50px;
+    padding-top: 100px;
     display: flex;
     flex-wrap: wrap;
     font-size: 25px;
